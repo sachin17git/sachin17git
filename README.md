@@ -1,6 +1,6 @@
 ### Hey there 👋
 ##
-- 🔭 I’m a graduate student at University at Buffalo.
+- 🔭 I’m a graduate student, University at Buffalo.
 - 🌱 I’m currently working on Data Science, Machine Learning, Deep Learning and Computer Vision.
 - 📫 Reach me:
 <p><a href="https://www.linkedin.com/in/sachin-bs-64b779166" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
