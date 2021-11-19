@@ -12,19 +12,6 @@
 
 [![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin17git&langs_count=5&theme=tokyonight)]()
 
-```javascript
-Skills = {
-
-    Languages: [Python, R, Matlab, SQL, Cypher],
-    
-    Frameworks: [PyTorch, "Scikit-learn", Numpy, Pandas, Seaborn, Matplotlib, Streamlit, Flask],
-    
-    Tools and Services: [Docker, AWS, GCP, Apache Spark, "Nginx web-server"],
-    
-    Databases: [Neo4j, MySQL]
-    
-}
-```
 
 <!--
 **sachin17git/sachin17git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
