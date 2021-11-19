@@ -1,7 +1,7 @@
 ###  Hey there! I'm Sachin  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ##
 - 🔭 I’m a graduate student, University at Buffalo.
-- 🌱 I’m currently working on Data Science, Machine Learning, Deep Learning and Computer Vision.
+- 🌱 I’m an enthusiast of Data Science, Machine Learning, Deep Learning, and Computer Vision.
 - 📫 Reach me @
 
      [![Linkedin Badge](https://img.shields.io/badge/-SachinBS-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sachin-bs-64b779166/)](https://www.linkedin.com/in/sachin-bs-64b779166/)
