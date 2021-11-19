@@ -1,4 +1,4 @@
-### Hey there! I'm Sachin 👋
+###                                                          Hey there! I'm Sachin 👋
 ##
 - 🔭 I’m a graduate student, University at Buffalo.
 - 🌱 I’m currently working on Data Science, Machine Learning, Deep Learning and Computer Vision.
