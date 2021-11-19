@@ -9,9 +9,9 @@
 [![GitHub SachinBS](https://img.shields.io/github/followers/sachin17git?label=follow&style=social)](https://github.com/sachin17git)
 
    [![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sachin17git&count_private=true&theme=tokyonight&showicons=true)]() 
-   <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/media/4711ad8d0ba0dcd367061aa7841f8107.gif?raw=true" width="450" height="290" />
 
-   [![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin17git&langs_count=5&theme=tokyonight)]()
+   [![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin17git&langs_count=5&theme=tokyonight)]() <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/media/4711ad8d0ba0dcd367061aa7841f8107.gif?raw=true" width="450" height="290" />
+
 
 
 
