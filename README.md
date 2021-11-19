@@ -2,7 +2,7 @@
 ##
 - 🔭 I’m a graduate student, University at Buffalo.
 - 🌱 I’m currently working on Data Science, Machine Learning, Deep Learning and Computer Vision.
-- 📫 Reach me:
+- 📫 Reach me @:
 
      [![Linkedin Badge](https://img.shields.io/badge/-SachinBS-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sachin-bs-64b779166/)](https://www.linkedin.com/in/sachin-bs-64b779166/)
 [![Gmail Badge](https://img.shields.io/badge/-sachinbe@buffalo.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sachinbe@buffalo.edu)](mailto:sachinbe@buffalo.edu) [![Gmail Badge](https://img.shields.io/badge/-sachin97.bs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sachin97.bs@gmail.com)](mailto:sachin97.bs@gmail.com)
