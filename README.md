@@ -11,4 +11,4 @@
 
    [![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sachin17git&count_private=true&theme=nord&showicons=true&show_icons=true&hide=contribs,issues,prs)]() 
    
-   [![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin17git&langs_count=5&theme=nord)]() <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/media/4711ad8d0ba0dcd367061aa7841f8107.gif?raw=true" loop="-1" width="460" height="285" />
+   [![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin17git&langs_count=5&theme=nord)]() <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/media/4711ad8d0ba0dcd367061aa7841f8107.gif?raw=true" loop="infinite" width="460" height="285" />
