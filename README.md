@@ -1,4 +1,5 @@
 ###  Hey there! I'm Sachin  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+![](https://komarev.com/ghpvc/?username=sachin17git&color=blue&style=for-the-badge)
 ##
 - 🔭 I’m a graduate student, University at Buffalo.
 - 🌱 I’m ecstatic about Data Science and Machine learning.
