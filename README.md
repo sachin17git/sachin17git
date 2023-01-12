@@ -13,6 +13,4 @@
 
     [![Sachin's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sachin17git&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
     
-    [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sachin17git&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-   
-[![Language Stats](https://github-readme-stats-git-masterrstaa-rickstaa/api/top-langs/?username=sachin17git&langs_count=5&theme=nord)]() <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/media/4711ad8d0ba0dcd367061aa7841f8107.gif?raw=true" width="460" height="285" />
+    [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sachin17git&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/media/4711ad8d0ba0dcd367061aa7841f8107.gif?raw=true" width="460" height="285" />
